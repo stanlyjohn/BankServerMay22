@@ -12,6 +12,10 @@
 
    3 . install JWT Token - npm i jsonwebtoken
 
+   4 . Install Mongoose - npm i mongoose
+
+   4 . Install cors - npm i cors
+
   Basic Steps
   -----------
 
@@ -48,6 +52,27 @@
 
          10.1 Application spacific
          10.2 Router specific
+
+  11 . Mongo DB Connection
+
+          11.1 Install Mongoose
+          11.2 create db.js file -  inside service
+          11.3 import mongoose in db.js 
+          11.4 state connection string using mongoose
+          11.5 create mode / collection
+          11.6 export model
+
+  12 . Asynchronous function resolving - promise
+  
+        12.1 resolved state - .then()
+        12.2 reject state - catch()
+        
+ 13 . CORS - Cross Origin Resource Sharing
+         
+
+
+
+
                  
 
 
